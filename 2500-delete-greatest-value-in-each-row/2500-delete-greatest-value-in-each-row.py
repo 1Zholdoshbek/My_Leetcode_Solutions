@@ -11,12 +11,13 @@ class Solution:
         #     arr.clear()
         # return count
         while len(grid[0]):
-            tmp = []
+            tmp = 0
             i = 0
             while i < len(grid):
                 g = max(grid[i])
-                tmp.append(g)
+                if g > tmp:
+                    tmp = g
                 grid[i].remove(g)
                 i += 1
-            count += max(tmp)
+            count += tmp
         return count
