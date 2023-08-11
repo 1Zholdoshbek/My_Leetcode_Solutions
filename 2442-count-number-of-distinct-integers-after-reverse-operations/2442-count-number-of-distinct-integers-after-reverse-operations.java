@@ -1,22 +1,20 @@
 class Solution {
+    
+   public int ReverseNumber(int i){
+       int sum=0;
+       while(i>0){
+           sum=sum*10+(i%10);
+           i/=10;
+       }
+       return sum;
+   }
     public int countDistinctIntegers(int[] nums) {
-        
-        HashSet<Integer>myset = new HashSet<>();
-        for(int i:nums)
+        Set<Integer>myset =  new HashSet<>();
+        for(int i:nums){
             myset.add(i);
-        
-        for(int i=0;i<nums.length;i++){
-            String tmp="";
-            StringBuilder strb = new StringBuilder();
+            myset.add(ReverseNumber(i));
             
-            tmp=Integer.toString(nums[i]);
-            strb.append(tmp);
-            strb.reverse();
-            
-            myset.add(Integer.parseInt(strb.toString()));
-      }
-        
+        }
         return myset.size();
-        
     }
 }
