@@ -1,31 +1,19 @@
-class Solution:
-    def sortVowels(self, s: str) -> str:
-        v=[]
-        p=[]
-        l=['A','a','O','o','E','e','I','i','U','u']
-        for index,char in enumerate(s):
-            if char in l:
-                v.append(char)
-                p.append(index)
-        v.sort()
-        s=list(s)
-        
-        for index,char in zip(p,v):
-            s[index]=char
+class Solution {
+public:
+    string sortVowels(string s) {
+        vector<int>pos;
+        vector<char>val;
+        for(int i=0;i<s.size();i++){
+            if(s[i]=='a' || s[i]=='A' || s[i]=='E' || s[i]=='u' || s[i]=='U'||s[i]=='e' || s[i]=='o' || s[i]=='O' || s[i]=='i' || s[i]=='I'){
+                pos.push_back(i);
+                val.push_back(s[i]);
+            }
             
-            
-        return ''.join(s)
-            
-            
-        
-        
-        
-            
-                
-            
-           
-           
-           
-           
-            
-        
+        }
+        sort(val.begin(),val.end());
+        for(int i=0;i<pos.size();i++){
+            s[pos[i]]=val[i];
+        }
+        return s;
+    }
+};
