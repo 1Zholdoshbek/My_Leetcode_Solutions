@@ -1,8 +1,9 @@
 class Solution {
-    public String removeOccurrences(String s, String part) {
-        while(s.contains(part)){
-            s=s.replaceFirst(part,"");
+public:
+    string removeOccurrences(string s, string part) {
+        while(s.length()!=0 && s.find(part)<s.length()){
+            s=s.erase(s.find(part),part.length());
         }
         return s;
     }
-}
+};
