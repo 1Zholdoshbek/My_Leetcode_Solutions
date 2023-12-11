@@ -1,17 +1,8 @@
 class Solution:
     def findIntersectionValues(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        cnt=0
-        cnt2=0
-        for i in nums1:
-            for j in nums2:
-                if i==j:
-                    cnt+=1
-                    break
-        for i in nums2:
-            for j in nums1:
-                if i==j:
-                    cnt2+=1
-                    break
-        return [cnt,cnt2]
-        
+        set1=set(nums1)
+        set2=set(nums2)
+        cnt1=sum(1 for i in nums1 if i in set2)
+        cnt2=sum(1 for i in nums2 if i in set1)
+        return [cnt1,cnt2]
         
