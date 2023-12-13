@@ -1,6 +1,13 @@
 class Solution:
     def pivotArray(self, nums: List[int], pivot: int) -> List[int]:
-        ans=[i for i in nums if i<pivot]
-        ans.extend([pivot]*nums.count(pivot))
-        ans.extend([i for i in nums if i>pivot])
-        return ans
+        mins=[]
+        maxs=[]
+        piv=[]
+        for i in nums:
+            if i<pivot:
+                mins.append(i)
+            elif i>pivot:
+                maxs.append(i)
+            else:
+                piv.append(i)
+        return mins+piv+maxs
