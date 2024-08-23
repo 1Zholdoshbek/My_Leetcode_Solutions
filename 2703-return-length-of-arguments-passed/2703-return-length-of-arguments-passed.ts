@@ -1,9 +1,7 @@
-/**
- * @param {...(null|boolean|number|string|Array|Object)} args
- * @return {number}
- */
-var argumentsLength = function(...args) {
-    return args.length;
+type JSONValue = null | boolean | number | string | JSONValue[] | { [key: string]: JSONValue };
+
+function argumentsLength(...args: JSONValue[]): number {
+    return arguments.length;
 };
 
 /**
