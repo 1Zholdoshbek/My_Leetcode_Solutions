@@ -6,9 +6,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3483-alternating-groups-ii](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/3483-alternating-groups-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [3483-alternating-groups-ii](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/3483-alternating-groups-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
