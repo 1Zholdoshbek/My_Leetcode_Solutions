@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3483-alternating-groups-ii](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/3483-alternating-groups-ii) |
 ## Sliding Window
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
