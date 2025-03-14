@@ -1,5 +1,5 @@
 import pandas as pd
 
-def dropDuplicateEmails(customers: pd.DataFrame) -> pd.DataFrame:
-    return customers.drop_duplicates('email')
+def createDataframe(student_data: List[List[int]]) -> pd.DataFrame:
+    return pd.DataFrame(student_data,columns=['student_id','age'])
     
