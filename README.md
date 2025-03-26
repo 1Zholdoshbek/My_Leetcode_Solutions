@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2478-longest-nice-subarray](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -87,5 +88,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+## Math
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Matrix
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
