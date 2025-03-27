@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2478-longest-nice-subarray](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/3483-alternating-groups-ii) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 ## String
 |  |
 | ------- |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
 |  |
