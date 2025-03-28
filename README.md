@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2478-longest-nice-subarray](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2478-longest-nice-subarray) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Dynamic Programming
 |  |
@@ -91,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
@@ -101,4 +105,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Two Pointers
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 <!---LeetCode Topics End-->
