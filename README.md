@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2998-count-symmetric-integers](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2998-count-symmetric-integers) |
 ## Matrix
 |  |
 | ------- |
@@ -114,4 +115,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/1Zholdoshbek/My_Leetcode_Solutions/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
